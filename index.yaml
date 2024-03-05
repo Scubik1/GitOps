@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  wcg:
+  - apiVersion: v2
+    appVersion: 0.8.0
+    created: "2024-03-05T18:41:54.109028535Z"
+    description: WCG Chart
+    digest: 7902113dd00a10bf941c60d2166371db56e18bd94d5060519b828aa0ce1f72a7
+    name: wcg
+    urls:
+    - https://Scubik1.github.io/GitOps/helm/wcg-0.8.0.tgz
+    version: 0.8.0
+generated: "2024-03-05T18:41:54.108499087Z"
