@@ -10,7 +10,7 @@ container:
   name: wcg
 
 image:
-  repository: ghcr.io/scubik1/wcg
+  repository: ghcr.io/scubik1/gowcg
   tag: ""
 
 ingress:
