@@ -1,5 +1,5 @@
 FROM golang:1.16 as builder
-RUN git clone https://github.com/Fenikks/word-cloud-generator.git /tmp/wcg
+RUN git clone https://github.com/Scubik1/word-cloud-generator.git /tmp/wcg
 RUN cd /tmp/wcg && make
 
 FROM alpine:latest
